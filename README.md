@@ -10,3 +10,4 @@ Il materiale di questo corso è **prevalentemente ispirato** e basato su slide, 
 - 📘 [Documentazione ufficiale della libreria G2D](https://github.com/tomamic/fondinfo)  
 - 🧑‍🏫 [Sito del corso originale](https://tomamic.github.io/)  
 - 🧪 [Playground interattivo Python (G2D)](https://fondinfo.github.io/play/?main.py)
+- 📘 [Slide su Arena, relazioni e polimorfismo] (https://fondinfo.github.io/slides/p32-relazioni.html)
